@@ -1,1 +1,2 @@
 this is a text.
+Step 3 - change the text file.
